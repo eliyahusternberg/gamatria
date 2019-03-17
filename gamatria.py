@@ -53,7 +53,7 @@ class HebrewWord():
             #get gemtria of i
             gematria_of_i = HebrewWord._gematria(i)
 
-            #seeif its the same as the selfs gematria
+            #see if its the same as the selfs gematria
             if gematria_of_i == HebrewWord.gematria(self):
 
 
