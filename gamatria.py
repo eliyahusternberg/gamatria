@@ -1,4 +1,3 @@
-#Instance variable - (name of lettuce)
 #Class variable is the same for All objects
 
 
